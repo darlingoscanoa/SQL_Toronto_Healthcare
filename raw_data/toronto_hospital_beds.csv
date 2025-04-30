@@ -1,0 +1,10 @@
+facility_name,beds_staffed,annual_admissions,emergency_visits,occupancy_rate,facility_type,care_type,city,province
+Toronto General Hospital,471,28450,89670,92.4,Hospital,Acute Care,Toronto,Ontario
+Toronto Western Hospital,272,15840,65340,88.7,Hospital,Acute Care,Toronto,Ontario
+Princess Margaret Cancer Centre,202,11230,0,85.2,Hospital,Specialized Cancer Care,Toronto,Ontario
+Mount Sinai Hospital,442,24680,72450,89.6,Hospital,Acute Care,Toronto,Ontario
+St. Michael's Hospital,463,26740,78960,91.2,Hospital,Acute Care,Toronto,Ontario
+Sunnybrook Health Sciences Centre,627,33560,91230,94.5,Hospital,Acute Care,Toronto,Ontario
+Michael Garron Hospital,375,19820,68740,87.8,Hospital,Acute Care,Toronto,Ontario
+North York General Hospital,426,23450,74520,88.9,Hospital,Acute Care,Toronto,Ontario
+St. Joseph's Health Centre,381,21340,69840,86.5,Hospital,Acute Care,Toronto,Ontario

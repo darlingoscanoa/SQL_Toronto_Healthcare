@@ -1,0 +1,27 @@
+# Ignore AWS credentials
+sql/aws_config.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Newsletter
+newsletter_template.md

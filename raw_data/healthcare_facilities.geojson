@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, user-scalable=yes">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!-- CSS -->
+	<link rel="stylesheet" href="https://www.toronto.ca/wp-content/themes/cot/print.css" media="print">
+
+	<!-- Favicons -->
+	<link rel="apple-touch-icon" sizes="180x180" href="https://www.toronto.ca/wp-content/themes/cot/img/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="https://www.toronto.ca/wp-content/themes/cot/img/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="https://www.toronto.ca/wp-content/themes/cot/img/favicon-16x16.png" sizes="16x16">
+	<link rel="mask-icon" href="https://www.toronto.ca/wp-content/themes/cot/img/safari-pinned-tab.svg" color="#165788">
+	<title>City of Toronto</title>
+<meta name='robots' content='max-image-preview:large' >
+<link rel='dns-prefetch' href='//translate.google.com' >
+<link rel='stylesheet' id='cotui-css' href='https://www.toronto.ca/resources/cdn/cotui/2.4.3/cotui.css' media='all' >
+<link rel='stylesheet' id='services-home-css' href='https://www.toronto.ca/resources/311_widgets/styles/311_widgets.css?ver=6.4.3' media='all' >
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.toronto.ca/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3' media='all' >
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='ableplayer-css' href='https://www.toronto.ca/wp-content/plugins/cot-custom/mediaplayer/dist/ableplayer/build/ableplayer.min.css?ver=6.4.3' media='all' >
+<link rel='stylesheet' id='bootstrap-style-css' href='https://www.toronto.ca/wp-content/themes/cot/css/bootstrap.3.4.1.min.css?ver=1745517741' media='all' >
+<link rel='stylesheet' id='fontawesome-css' href='https://www.toronto.ca/wp-content/themes/cot/assets/fontawesome/css/all.min.css?ver=1745517740' media='all' >
+<link rel='stylesheet' id='cot-style-css' href='https://www.toronto.ca/wp-content/themes/cot/css/cot.css?ver=1745517741' media='all' >
+<script src="https://www.toronto.ca/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://www.toronto.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="module" src="https://www.toronto.ca/resources/cdn/cotui/2.4.3/cotui.esm.js"></script>
+<script nomodule src="https://www.toronto.ca/resources/cdn/cotui/2.4.3/cotui.js"></script>
+<link rel="https://api.w.org/" href="https://www.toronto.ca/wp-json/" ><link rel="alternate" type="application/json" href="https://www.toronto.ca/wp-json/wp/v2/pages/52" ><link rel="canonical" href="https://www.toronto.ca/" >
+<meta name="WT.wp_app_name" content="event_cal_widget;wp-feedback" >
+<link rel="stylesheet" href="/resources/event_cal_widget/styles/main1.0.8.css">
+<!-- From here to the next endbuild tag, all the files will be concatenated into a single file called main.css: -->
+<link rel="stylesheet" href="/resources/wp-feedback/styles/main0.1.0.css">
+
+<!-- From here to the next endbuild tag, all the files will be concatenated into a single print-only file called core_print.css: -->
+			<link rel="stylesheet" href="https://www.toronto.ca/cot/style.css" media="all">
+
+            <meta name="description" content="The official website for the City of Toronto. Toronto is Canada's largest city, the fourth largest in North America, and home to a diverse population of more than three million people. ">
+            <meta name="keywords" content="">
+            <meta name="Author" content="City of Toronto">
+            <meta name="Owner" content="City of Toronto">
+
+            <meta name="twitter:card" content="summary">
+            <meta name="twitter:site" content="@TorontoComms">
+            <meta name="twitter:title" content="City of Toronto">
+            <meta name="twitter:description" content="The official website for the City of Toronto. Toronto is Canada's largest city, the fourth largest in North America, and home to a diverse population of more than three million people. ">
+            <meta name="twitter:image" content="https://www.toronto.ca/wp-content/themes/cot/img/share_toronto_twitter.jpg">
+            <meta name="twitter:url" content="https://www.toronto.ca/">
+
+            <meta property="og:url" content="https://www.toronto.ca/">
+            <meta property="og:type" content="article">
+            <meta property="og:site_name" content="City of Toronto">
+            <meta property="og:title" content="City of Toronto">
+            <meta property="og:description" content="The official website for the City of Toronto. Toronto is Canada's largest city, the fourth largest in North America, and home to a diverse population of more than three million people. ">
+            <meta property="og:image" content="https://www.toronto.ca/wp-content/themes/cot/img/share_toronto_twitter.jpg">
+
+            <meta property="article:tag" content="">
+            <meta property="article:modified_time" content="2025-04-25T10:14:57-04:00">
+            <meta property="article:published_time" content="2017-02-09T14:00:55-05:00">
+
+            			<meta name="WT.bc_n" content="Home" >
+            <meta name="WT.ti" content="City of Toronto">
+            <meta name="WT.z_scroll" content="yes">
+            <!--  -->
+                                    <meta name="WT.sp" content="CoT">
+            <meta name="WT.cot_h1" content="City of Toronto">
+            <meta name="WT.page_id" content="52">
+            <meta name="cotsrcp" content="wordpress">
+
+            <meta name="datemodified" content="2025-04-25T10:14:57-04:00">
+            <meta name="datecreated" content="2017-02-09T14:00:55-05:00">
+            <meta name="dmshort" content="2025-04-25">
+            <meta name="dcshort" content="2017-02-09">
+
+
+            <meta name="DC.title" content="City of Toronto">
+            <meta name="DC.description" content="The official website for the City of Toronto. Toronto is Canada's largest city, the fourth largest in North America, and home to a diverse population of more than three million people. ">
+            <meta name="DC.Date.Modified" content="2025-04-25T10:14:57-04:00">
+            <meta name="DC.Date.Created" content="2017-02-09T14:00:55-05:00">
+            <meta name="DC.Language" content="en-CA">
+            <meta name="DC.Rights" content="Copyright: City of Toronto">
+            <meta name="DC.Publisher" content="City of Toronto">
+            <meta name="DC.Format" content="text/html">
+            <meta name="DC.Coverage" content="Toronto, Ontario, Canada">
+            <meta name="DC.Identifier" content="52">
+
+
+            <script type="application/ld+json">
+                {"@context": "http://schema.org", "@type": "WebSite", "url": "https://toronto.ca", "sameAs" : [ "https://www.facebook.com/cityofto/","https://twitter.com/TorontoComms","https://youtube.com/thecityoftoronto"], "potentialAction": { "@type": "SearchAction", "target": "https://find.toronto.ca/webui/search.html?query={srch_str}&cname=www1&", "query-input": "required name=srch_str" }}
+            </script>
+
+            
+        <script >
+            var jQueryMigrateHelperHasSentDowngrade = false;
+
+			window.onerror = function( msg, url, line, col, error ) {
+				// Break out early, do not processing if a downgrade reqeust was already sent.
+				if ( jQueryMigrateHelperHasSentDowngrade ) {
+					return true;
+                }
+
+				var xhr = new XMLHttpRequest();
+				var nonce = '091106f110';
+				var jQueryFunctions = [
+					'andSelf',
+					'browser',
+					'live',
+					'boxModel',
+					'support.boxModel',
+					'size',
+					'swap',
+					'clean',
+					'sub',
+                ];
+				var match_pattern = /\)\.(.+?) is not a function/;
+                var erroredFunction = msg.match( match_pattern );
+
+                // If there was no matching functions, do not try to downgrade.
+                if ( null === erroredFunction || typeof erroredFunction !== 'object' || typeof erroredFunction[1] === "undefined" || -1 === jQueryFunctions.indexOf( erroredFunction[1] ) ) {
+                    return true;
+                }
+
+                // Set that we've now attempted a downgrade request.
+                jQueryMigrateHelperHasSentDowngrade = true;
+
+				xhr.open( 'POST', 'https://www.toronto.ca/wp-admin/admin-ajax.php' );
+				xhr.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
+				xhr.onload = function () {
+					var response,
+                        reload = false;
+
+					if ( 200 === xhr.status ) {
+                        try {
+                        	response = JSON.parse( xhr.response );
+
+                        	reload = response.data.reload;
+                        } catch ( e ) {
+                        	reload = false;
+                        }
+                    }
+
+					// Automatically reload the page if a deprecation caused an automatic downgrade, ensure visitors get the best possible experience.
+					if ( reload ) {
+						location.reload();
+                    }
+				};
+
+				xhr.send( encodeURI( 'action=jquery-migrate-downgrade-version&_wpnonce=' + nonce ) );
+
+				// Suppress error alerts in older browsers
+				return true;
+			}
+        </script>
+
+		<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+    <!--[if lt IE 9]>
+      <script src="https://www.toronto.ca/wp-content/themes/cot/js/html5shiv.min.js"></script>
+      <script src="https://www.toronto.ca/wp-content/themes/cot/js/respond.min.js"></script>
+    <![endif]-->
+
+	<script src="//cdn.jsdelivr.net/npm/js-cookie@3.0.1/dist/js.cookie.min.js"></script>
+
+</head>
+
+<body class="home page-template-default page page-id-52 page-parent has-feedback loaded cot-home cot-ver-v1-4-5" itemscope=""  itemtype="http://schema.org/WebPage">
+<!--stopindex-->
+	<a id="skippy" class="sr-only sr-only-focusable" href="#main"><span>Skip to content</span></a>
+	<img class="visible-print-block" src="https://www.toronto.ca/wp-content/themes/cot/img/logo-print.svg" width="175" height="53" alt="City of Toronto">
+	<div id="home-alertbox" data-w3-include-html="https://www.toronto.ca/cot/globalalert/"></div>
+	<header id="header">
+	<div class="container-fluid">
+	<div id="header-left">
+		<div id="logo">
+		<h1>			<a href="https://www.toronto.ca/" data-wt_params="WT.z_click_from=header;;WT.z_cat=Home">
+			<img src="https://www.toronto.ca/wp-content/themes/cot/img/logo.svg" width="225" height="70" alt="City of Toronto homepage">
+			</a>
+		</h1>		</div>
+		<button id="want-to-mobile" class="btn btn-warning" data-target="#want-to-modal" data-toggle="modal">I want to...</button>
+		<button id="nav-trigger" class="btn btn-default visible-xs visible-sm" aria-expanded="false" aria-haspopup="true"><span>Navigation Menu</span></button>
+	</div>
+		<div id="header-right">
+			<div id="top-bar">
+<!--				<form id="siteSearch" class="form-inline" action="--><!--searchblox/servlet/SearchServlet" method="get" role="search" name="s">-->
+			  
+				<form id="siteSearch" class="form-inline" action="https://find.toronto.ca/webui/search.html" method="get" role="search" name="s">
+					<div role="search" aria-label="site search">
+						<label class="sr-only" for="query">Search</label>
+						<input id="query" name="query" class="form-control" placeholder="Search" type="text">
+						<button id="query-search" type="submit" class="btn btn-default"><img src="https://www.toronto.ca/wp-content/themes/cot/img/icon-search.svg" alt="Search"></button>
+						<input type="hidden" name="cname" value="www1">
+					</div>
+				</form>
+				<button id="text-increase" class="btn btn-default hidden-sm hidden-xs" title="Increase text size"><span class="sr-only">Increase text size</span><i id="i-text-increase" aria-hidden="true">A+</i></button>
+				<button id="text-decrease" class="btn btn-default hidden-sm hidden-xs" title="Decrease text size"><span class="sr-only">Decrease text size</span><i id="i-text-decrease" aria-hidden="true">A-</i></button>
+				<button id="want-to" class="btn btn-warning" data-target="#want-to-modal" data-toggle="modal">I want to...</button>
+				
+			</div>
+			<div data-w3-include-html="https://www.toronto.ca/globalnav/header/" id="main-nav-container"><a href="https://www.toronto.ca/globalnav/header/"></a></div>
+		</div>
+	</div>
+<!--startindex-->
+	</header>
+	
+    <section id="home-carousel" class="carousel slide" data-ride="carousel">
+        <h2 class="sr-only">Home Carousel</h2>
+        <div class="carousel-inner">
+            
+                <div class="item active">                        <img src="https://www.toronto.ca/wp-content/uploads/2023/03/96a2-home-trinity-bellwoods-scaled-e1741380758821-1500x700.jpg" alt="Toronto skyline, walking dog by woman in Trinity Bellwoods park" height="700" width="1500">
+                                                                    
+					</div>
+
+                    </div>
+    </section>
+
+<section tabindex="-1" id="main">
+
+  <div id="quick-links">
+
+    <div class="container-fluid">
+
+      <ul class="nav nav-tabs" role="tablist" aria-label="Quick Links">
+
+        
+        
+          <li role="presentation" class="active">
+            <button id="qlink1" aria-controls="tab1" role="tab" data-toggle="tab" class="btn-block ico_trending" tabindex="0">Trending</button>
+          </li>
+
+          
+          <li role="presentation">
+            <button id="qlink2" aria-controls="tab2" role="tab" data-toggle="tab" class="btn-block ico_healthy-living" tabindex="-1">Healthy Living</button>
+          </li>
+
+          
+          <li role="presentation">
+            <button id="qlink3" aria-controls="tab3" role="tab" data-toggle="tab" class="btn-block ico_getting-around" tabindex="-1">Getting Around</button>
+          </li>
+
+          
+          <li role="presentation">
+            <button id="qlink4" aria-controls="tab4" role="tab" data-toggle="tab" class="btn-block ico_permits-licences" tabindex="-1">Permits & Licences</button>
+          </li>
+
+          
+          <li role="presentation">
+            <button id="qlink5" aria-controls="tab5" role="tab" data-toggle="tab" class="btn-block ico_your-city" tabindex="-1">Your City</button>
+          </li>
+
+          
+          <li role="presentation">
+            <button id="qlink6" aria-controls="tab6" role="tab" data-toggle="tab" class="btn-block ico_my-property" tabindex="-1">Your Property</button>
+          </li>
+
+          
+      </ul>
+
+    </div>
+
+    <div class="tab-content">
+      <div role="tabpanel" class="tab-pane active" id="tab1" tabindex="-1" aria-labelledby="qlink1"><div class="container-fluid"><nav><a href="https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Trending">Waste Wizard</a>
+<a href="https://www.toronto.ca/home/311-toronto-at-your-service/make-the-right-call/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Trending">Make the Right Call</a>
+<a href="https://www.toronto.ca/explore-enjoy/parks-recreation/program-activities/fitness/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Trending">Fitness</a>
+<a href="https://www.toronto.ca/explore-enjoy/parks-recreation/program-activities/sports/golf/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Trending">Golf</a>
+</nav></div></div><div role="tabpanel" class="tab-pane" id="tab2" tabindex="-1" aria-labelledby="qlink2"><div class="container-fluid"><nav><a href="https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/respiratory-viruses/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Healthy Living">Respiratory Viruses</a>
+<a href="https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/respiratory-viruses/covid-19/covid-19-vaccines/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Healthy Living">COVID-19 Vaccines</a>
+<a href="https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/mental-health-resources/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Healthy Living">Mental Health</a>
+<a href="https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/immunization/get-immunized-children-youth/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Healthy Living">Child Vaccinations </a>
+</nav></div></div><div role="tabpanel" class="tab-pane" id="tab3" tabindex="-1" aria-labelledby="qlink3"><div class="container-fluid"><nav><a href="https://www.toronto.ca/services-payments/streets-parking-transportation/road-restrictions-closures/road-restrictions/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Getting Around">Road Restrictions Map</a>
+<a href="https://www.toronto.ca/services-payments/streets-parking-transportation/cycling-in-toronto/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Getting Around">Cycling</a>
+<a href="https://www.toronto.ca/?page_id=39801&preview_id=39801" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Getting Around">Parking Violations</a>
+<a href="https://www.toronto.ca/services-payments/streets-parking-transportation/applying-for-a-parking-permit/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Getting Around">Parking Permits</a>
+<a href="https://www.toronto.ca/services-payments/streets-parking-transportation/sidewalk-tours-wayfinding/self-guided-tours/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Getting Around">Self-Guided Tours</a>
+<a href="https://www.toronto.ca/services-payments/streets-parking-transportation/road-maintenance/potholes/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Getting Around">Potholes</a>
+</nav></div></div><div role="tabpanel" class="tab-pane" id="tab4" tabindex="-1" aria-labelledby="qlink4"><div class="container-fluid"><nav><a href="https://www.toronto.ca/community-people/animals-pets/pet-licensing/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Permits & Licences">Pet Licensing</a>
+<a href="https://www.toronto.ca/services-payments/building-construction/apply-for-a-building-permit/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Permits & Licences">Building Permits</a>
+<a href="https://www.toronto.ca/business-economy/industry-sector-support/events/guidance-planning-events-in-toronto/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Permits & Licences">Event Permits</a>
+<a href="https://www.toronto.ca/business-economy/new-businesses-startups/business-regulations/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Permits & Licences">Business Regulations, Licences &amp; Permits</a>
+<a href="https://www.toronto.ca/services-payments/building-construction/tree-ravine-protection-permits/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Permits & Licences">Remove a Tree</a>
+</nav></div></div><div role="tabpanel" class="tab-pane" id="tab5" tabindex="-1" aria-labelledby="qlink5"><div class="container-fluid"><nav><a href="https://www.toronto.ca/city-government/council/office-of-the-mayor/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Your City">Office of the Mayor</a>
+<a href="https://www.toronto.ca/city-government/council/members-of-council/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Your City">Members of Council</a>
+<a href="https://www.toronto.ca/home/311-toronto-at-your-service/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Your City">311</a>
+<a href="https://www.toronto.ca/city-government/public-notices-bylaws/public-notices/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Your City">Public Notices</a>
+<a href="https://www.toronto.ca/city-government/data-research-maps/open-data/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Your City">Open Data</a>
+<a href="https://www.toronto.ca/community-people/get-involved/community/toronto-for-all/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Your City">Toronto For All</a>
+</nav></div></div><div role="tabpanel" class="tab-pane" id="tab6" tabindex="-1" aria-labelledby="qlink6"><div class="container-fluid"><nav><a href="https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/collection-schedule/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Your Property">Waste Collection Schedule</a>
+<a href="https://www.toronto.ca/services-payments/property-taxes-utilities/vacant-home-tax/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Your Property">Vacant Home Tax</a>
+<a href="https://www.toronto.ca/services-payments/recycling-organics-garbage/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Your Property">Recycling, Garbage & Organics</a>
+<a href="https://www.toronto.ca/services-payments/property-taxes-utilities/property-tax/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Your Property">Property Tax</a>
+<a href="https://www.toronto.ca/services-payments/property-taxes-utilities/utility-bill/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Your Property">Utility Bills</a>
+<a href="https://www.toronto.ca/community-people/housing-shelter/rental-housing-tenant-information/understand-fight-evictions/" data-wt_params="WT.z_click_from=quicklinks;;WT.cat=Your Property">Tenant Rights</a>
+</nav></div></div>    </div>
+
+  </div>
+  <div class="container-fluid home-lower-content">
+    <div class="row">
+      <div class="col-md-12 home-whats-new" data-mh="content">
+        <div id="ticker">
+            <h2>What's New</h2>
+        </div>
+          <div class="row">
+                                                <div class="col-sm-3">
+                                <a class="thumbnail thumbnail-featured" href="https://www.toronto.ca/business-economy/business-operation-growth/business-support/responding-to-united-states-economic-policy/" data-mh="thumbnails" style="height: 348px;" data-wt_params="WT.z_click_from=featuredlinks;;WT.cat=1">
+                                    <img src="https://www.toronto.ca/wp-content/uploads/2025/03/8f0c-Love-Local-Home-Page-Feature-350x250-1.jpg" alt="A Love Local sign on a Toronto street with a Canadian flag and street art in the background.">
+                                    <div class="caption">
+                                        <h3>Responding to U.S. Tariffs</h3>
+                                        <p>Learn about the City’s action plan and Love Local.
+</p>
+                                    </div>
+                                </a>
+                            </div>
+
+                                                        <div class="col-sm-3">
+                                <a class="thumbnail thumbnail-featured" href="https://www.toronto.ca/community-people/get-involved/public-consultations/public-consultation-for-proposed-demonstration-bylaw/" data-mh="thumbnails" style="height: 348px;" data-wt_params="WT.z_click_from=featuredlinks;;WT.cat=2">
+                                    <img src="https://www.toronto.ca/wp-content/uploads/2025/04/97d5-Demonstration-Bylaw-Featured-Whats-New-Tile-350x250-1.jpg" alt="View of downtown Toronto skyline looking over trees towards the CN Tower. The sky is pink at sunset.">
+                                    <div class="caption">
+                                        <h3>Survey & Public Session</h3>
+                                        <p>Have your say on a proposed new bylaw for demonstrations near certain locations, including schools, places of worship and community spaces. 
+</p>
+                                    </div>
+                                </a>
+                            </div>
+
+                                                        <div class="col-sm-3">
+                                <a class="thumbnail thumbnail-featured" href="https://www.toronto.ca/explore-enjoy/festivals-events/clean-toronto-together/" data-mh="thumbnails" style="height: 348px;" data-wt_params="WT.z_click_from=featuredlinks;;WT.cat=3">
+                                    <img src="https://www.toronto.ca/wp-content/uploads/2024/03/9457-Clean-Toronto-Together-2024-Homepage-Featured-Item-350x250-1.jpg" alt="A group of people with litter bags on a grassy lawn, cleaning up Crawford Jones Park for the annual spring cleanup at the City.">
+                                    <div class="caption">
+                                        <h3>Clean Toronto Together</h3>
+                                        <p>Join the City's annual spring cleanup from April 25 to 27. 
+</p>
+                                    </div>
+                                </a>
+                            </div>
+
+                                                        <div class="col-sm-3">
+                                <a class="thumbnail thumbnail-featured" href="https://www.toronto.ca/business-economy/business-operation-growth/green-your-business/energy-and-water-reporting-for-buildings/" data-mh="thumbnails" style="height: 348px;" data-wt_params="WT.z_click_from=featuredlinks;;WT.cat=4">
+                                    <img src="https://www.toronto.ca/wp-content/uploads/2024/03/8f70-EWRB-Homepage-Item-350x250-1.jpeg" alt="Toronto skyline with blue skies and clusters of buildings in the background.">
+                                    <div class="caption">
+                                        <h3>Energy & Water Reporting</h3>
+                                        <p>Buildings 50,000 square feet or larger must report energy and water use by July 2, 2025.
+</p>
+                                    </div>
+                                </a>
+                            </div>
+
+                                      </div>
+        </div>
+        <!-- Calendar -->
+      </div>
+    </div>
+</section>
+
+<section id="services">
+  <div class="container-fluid">
+    <h2 class="sr-only">Services</h2>
+    <div class="row">
+      <div id="service-request-form" class="col-sm-4">
+        <div class="row">
+          <img class="col-md-3 hidden-xs hidden-sm hidden-md" src="/resources/311_widgets/img/311.svg" alt="311">
+          <div class="col-md-9" >
+            <div class="dropup" style="display:inline-block">
+              <button id="status-request" class="btn btn-default" data-submenu="" type="button" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" aria-controls="service-dropdown">Service Request<span class="caret"></span></button>
+              <ul role="menu" aria-labelledby="status-request" id="service-dropdown" class="dropdown-menu"></ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="status-tracking-form" class="col-sm-8">
+        <form class="form-inline">
+          <label for="status-tracking">Status Tracking:</label>
+          <input  id="status-tracking" class="form-control" placeholder="# # # # #" type="text" pattern="[0-9]*" title="numeric tracking number">
+          <button type="submit" class="btn btn-primary">Go</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div id="cotFooterAbove" class="cotPlaceholder"></div>
+<footer id="footer">
+<div id="cotFooterTop" class="cotPlaceholder"></div>
+
+<div data-w3-include-html="https://www.toronto.ca/globalnav/footer/?fb=true">
+	<a href="https://www.toronto.ca/globalnav/footer/?fb=true"></a>
+</div>
+
+<!-- Google Translate Test -->
+
+<div id="translate_btn"></div>
+
+    <!--stopindex-->
+    <a href="#header" id="return-to-top">
+			<img src="https://www.toronto.ca/wp-content/themes/cot/img/back-to-top-arrow.png" alt="" >
+			<span class="return-to-top-tip">Back to Top</span>
+		</a>
+    <!--startindex-->
+<div id="cotFooterBottom" class="cotPlaceholder"></div>
+</footer>
+
+
+<div id="want-to-modal" class="modal fade" tabindex="-1">
+    <div data-w3-include-html="https://www.toronto.ca/globalnav/iwantto/">
+        <a href="https://www.toronto.ca/globalnav/iwantto/"></a>
+    </div>
+</div>
+
+<!-- jQuery 3.3.1 -->
+  
+  <script src="https://www.toronto.ca/wp-content/themes/cot/js/jquery-3.6.0.min.js"></script>
+            <script src="https://www.toronto.ca/wp-content/themes/cot/js/jquery-migrate-3.4.0.min.js"></script>
+          <script src="https://www.toronto.ca/cot/jquery-additional-custom-js.js?ver=1.0.0"></script>
+  
+         
+  <script src="https://www.toronto.ca/wp-content/themes/cot/js/bootstrap.3.4.1.min.js"></script>
+
+
+	<!-- <script src="/js/footer.js"></script> -->
+
+
+<!-- Google Translate Test -->
+<script>function translate() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'translate_btn');}</script>
+
+<script  src="//maps.googleapis.com/maps/api/js?client=gme-cityoftoronto&amp;v=3"></script>
+<script src="/resources/event_cal_widget/scripts/main1.0.8.js"></script><!-- From here to the next endbuild tag, all the files will be concatenated into a single file called main.js: -->
+<script src="/resources/wp-feedback/scripts/main0.1.0.js"></script>
+
+<script src="https://www.google.com/recaptcha/api.js?render=6LeN_XIUAAAAAEd8X21vFtkJ3_c7uA0xpUGcrGpe"></script><script src="https://www.toronto.ca/resources/311_widgets/scripts/311_widgets.js?ver=1.0" id="services-home-js"></script>
+<script src="https://www.toronto.ca/wp-content/themes/cot/js/homepage.js?ver=1.0" id="homepagejs-js"></script>
+<script src="https://www.toronto.ca/scripts/webtrends-infinity.load.js?ver=6.4.3" id="webtrends_script-js"></script>
+<script src="https://www.toronto.ca/wp-content/plugins/cot-custom/gallery/js/main.js?ver=6.4.3" id="gallery-js"></script>
+<script src="https://www.toronto.ca/wp-content/themes/cot/js/scripts.js?ver=6.4.3" id="cot-js"></script>
+<script src="https://www.toronto.ca/wp-content/themes/cot/js/footer.js?ver=6.4.3" id="footer-js"></script>
+<script src="https://www.toronto.ca/wp-content/plugins/cot-custom/mediaplayer/dist/main.js?ver=6.4.3" id="ableplayer-deps-js"></script>
+<script src="https://www.toronto.ca/wp-content/plugins/cot-custom/mediaplayer/dist/ableplayer/build/ableplayer.min.js?ver=6.4.3" id="ableplayer-js"></script>
+<script src="//translate.google.com/translate_a/element.js?cb=translate&amp;ver=6.4.3" id="google-translate-js"></script>
+<script src="https://www.toronto.ca/wp-content/themes/cot/js/navigation.js?ver=20151215" id="cot-navigation-js"></script>
+<script src="https://www.toronto.ca/wp-content/themes/cot/js/skip-link-focus-fix.js?ver=20151215" id="cot-skip-link-focus-fix-js"></script>
+<script src="https://www.toronto.ca/wp-content/themes/cot/js/jquery.ui.autocomplete.1.13.2.min.js?ver=20240201" id="cot-jquery-autocomplete-js"></script>
+<script id="cot-search-js-extra">
+var search = {"search_url":"https:\/\/find.toronto.ca\/webui\/search.html","search_autocomplete_url":"https:\/\/find.toronto.ca\/rest\/v2\/api\/search"};
+</script>
+<script src="https://www.toronto.ca/wp-content/themes/cot/js/search.js?ver=20170712" id="cot-search-js"></script>
+<script src="https://www.toronto.ca/cot/script.js?ver=1.0.0" id="script-name-js"></script>
+        <script >
+            /* <![CDATA[ */
+           document.querySelectorAll("ul.nav-menu").forEach(
+               ulist => { 
+                    if (ulist.querySelectorAll("li").length == 0) {
+                        ulist.style.display = "none";
+
+                                            } 
+                }
+           );
+            /* ]]> */
+        </script>
+        
+<script>
+
+    $( document ).ready( function() {
+
+        w3IncludeHTML();
+
+    });
+
+</script>
+
+</body>
+</html>
